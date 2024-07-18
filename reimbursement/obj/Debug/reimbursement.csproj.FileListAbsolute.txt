@@ -1,0 +1,10 @@
+D:\Projects\reimbursement\reimbursement\bin\Debug\reimbursement.exe.config
+D:\Projects\reimbursement\reimbursement\bin\Debug\reimbursement.exe
+D:\Projects\reimbursement\reimbursement\bin\Debug\reimbursement.pdb
+D:\Projects\reimbursement\reimbursement\obj\Debug\reimbursement.csprojAssemblyReference.cache
+D:\Projects\reimbursement\reimbursement\obj\Debug\reimbursement.Form1.resources
+D:\Projects\reimbursement\reimbursement\obj\Debug\reimbursement.Properties.Resources.resources
+D:\Projects\reimbursement\reimbursement\obj\Debug\reimbursement.csproj.GenerateResource.cache
+D:\Projects\reimbursement\reimbursement\obj\Debug\reimbursement.csproj.CoreCompileInputs.cache
+D:\Projects\reimbursement\reimbursement\obj\Debug\reimbursement.exe
+D:\Projects\reimbursement\reimbursement\obj\Debug\reimbursement.pdb
